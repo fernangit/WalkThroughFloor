@@ -9,7 +9,7 @@
     * image1.jpg ～ image28.jpg
 
 * webGL/StreamingAssets/videoに動画ファイルをセットする。
-    * video1.mp4 ～ video12.mp4
+    * video1.mp4 ～ video14.mp4
 
 ### 2.サーバ起動（ローカルで確認する場合）
 * 例）Pythonでサーバ立ち上げ
