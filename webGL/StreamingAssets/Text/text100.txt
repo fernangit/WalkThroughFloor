@@ -1,0 +1,7 @@
+MODELNAME：HANA1
+MODELBASE：Genesis 8 Female Body
+HIGHTS：156
+COMBATSCORE：0
+TOOL：DAZ Studio, Blender
+CREATER：M.T
+write!!

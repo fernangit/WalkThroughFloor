@@ -1,0 +1,7 @@
+MODELNAME：JIJA1
+MODELBASE：Genesis 8.1 Female Body
+HIGHTS：162
+COMBATSCORE：50
+TOOL：DAZ Studio, Blender
+CREATER：M.T
+write!!
