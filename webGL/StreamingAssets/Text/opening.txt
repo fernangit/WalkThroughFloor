@@ -1,0 +1,15 @@
+---VIRTUAL EXIBITION SYSTEM---
+
+--Operation description--
+
+-Move-
+with key board
+to forward : up key
+to back : down key
+to right : right key
+to left : left key
+
+-Rotation-
+with mouse
+
+2021 by M.T
