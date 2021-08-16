@@ -3,4 +3,4 @@ MODELBASE:Genesis 8.1 Female Body
 HIGHTS:162
 COMBATSCORE:10
 TOOL:DAZ Studio, Blender
-CREATER:M.T
+created by M.T
