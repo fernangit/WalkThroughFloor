@@ -1,6 +1,5 @@
-MODELNAME:HANA3
-MODELBASE:Genesis 8 Female Body
+MODELTYPE:HA-3
 HIGHTS:156
 COMBATSCORE:0
-TOOL:DAZ Studio, Blender
-created by M.T
+designed by 烏賊盗人R
+
