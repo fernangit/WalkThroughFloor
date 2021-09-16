@@ -1,4 +1,4 @@
----SECRET MODE---
+---BACK CODE 'N'---
 -NIGHT VISION-
 This is a simulation of how the night vision device looks.
 You can watch another exhibition.
