@@ -10,11 +10,15 @@ def updateScore():
     print('post');
     
     filename = 'StreamingAssets/PHP/' + request.form['filename']
+    option = request.form['option']
     score = request.form['score']
+    comment = request.form['comment']
     print(filename);
     print(score);
-    with open(filename, 'w') as fout:
-        fout.write(score)
+    print(comment);
+    text = score + comment
+    with open(filename, option) as fout:
+        fout.write(text)
     print('writed!');
         
     return score
