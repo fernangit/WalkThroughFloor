@@ -1,0 +1,6 @@
+---BACK CODE 'X'---
+-XRAY VISION-
+This is a simulation of xray vision device looks.
+You can see through objects.
+
+2021 by 烏賊盗人R
