@@ -1,14 +1,14 @@
-1.Partition1:エルファニング
-2.Partition2:ドラゴンタトゥーの女
-3.Partition3:
-4.Partition3:
-5.Partition4:
-6.Partition5:
-7.Partition11:
-8.Partition5:
-9.Partition6:
-10.Partition7:
-11.Partition10:
+1.Partition1:Mary Elle Fanning
+2.Partition2:Killer
+3.Partition3:undertaker
+4.Partition3:Black Rock City
+5.Partition4:Witch
+6.Partition5:Hard Suit
+7.Partition11:contagion girl 2
+8.Partition5:Jia 甲
+9.Partition6:REIKA
+10.Partition7:ANZU
+11.Partition10:Major Kusanagi
 12.Partition7:
 13.Partition8:
 14.Partition9:
