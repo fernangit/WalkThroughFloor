@@ -1,4 +1,0 @@
-MODELTYPE:YU-7
-HIGHTS:162
-COMBATSCORE:10
-designed by 烏賊盗人R

@@ -1,5 +1,0 @@
-MODELTYPE:HA-3
-HIGHTS:156
-COMBATSCORE:0
-designed by 烏賊盗人R
-
